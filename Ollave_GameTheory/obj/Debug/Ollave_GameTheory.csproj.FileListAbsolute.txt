@@ -1,0 +1,9 @@
+c:\users\ryanrey\documents\visual studio 2015\Projects\Ollave_GameTheory\Ollave_GameTheory\bin\Debug\Ollave_GameTheory.exe.config
+c:\users\ryanrey\documents\visual studio 2015\Projects\Ollave_GameTheory\Ollave_GameTheory\bin\Debug\Ollave_GameTheory.exe
+c:\users\ryanrey\documents\visual studio 2015\Projects\Ollave_GameTheory\Ollave_GameTheory\bin\Debug\Ollave_GameTheory.pdb
+c:\users\ryanrey\documents\visual studio 2015\Projects\Ollave_GameTheory\Ollave_GameTheory\obj\Debug\Ollave_GameTheory.csprojResolveAssemblyReference.cache
+c:\users\ryanrey\documents\visual studio 2015\Projects\Ollave_GameTheory\Ollave_GameTheory\obj\Debug\Ollave_GameTheory.Form1.resources
+c:\users\ryanrey\documents\visual studio 2015\Projects\Ollave_GameTheory\Ollave_GameTheory\obj\Debug\Ollave_GameTheory.Properties.Resources.resources
+c:\users\ryanrey\documents\visual studio 2015\Projects\Ollave_GameTheory\Ollave_GameTheory\obj\Debug\Ollave_GameTheory.csproj.GenerateResource.Cache
+c:\users\ryanrey\documents\visual studio 2015\Projects\Ollave_GameTheory\Ollave_GameTheory\obj\Debug\Ollave_GameTheory.exe
+c:\users\ryanrey\documents\visual studio 2015\Projects\Ollave_GameTheory\Ollave_GameTheory\obj\Debug\Ollave_GameTheory.pdb
